@@ -8,7 +8,7 @@
  <title>Exercicio-1</title>
  </head>
  <body>
-    <fieldset id=box>
+    <fieldset id="box">
  <div><strong> <h1  id="tilulo"> Exercício 1 </h1></strong> </div>
  <p><h3 id= "text">Construir um algoritmo que leia 2 números e
     efetue a adição. Caso o valor somado seja
@@ -44,9 +44,9 @@ $sum= $sum + 8;
 if ($sum <= 20) 
   $sum = $sum - 5;
 
-echo '<p> Resultado '. $sum . "\n"; "</p>";
+echo 'Resultado: '. $sum . "\n"; "</p>";
 }
 ?>
-</fieldset id=box>
+</fieldset>
 </body>
 </html>    
